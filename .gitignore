@@ -1,9 +1,8 @@
 .env
-secrets/
 credentials.json
 token*.json
-data/
-logs/
+Cold_Mail.xlsm
+README.md
 __pycache__/
 *.pyc
 .pytest_cache/

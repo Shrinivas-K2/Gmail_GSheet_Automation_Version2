@@ -1,0 +1,60 @@
+======================================================================
+Time    : 2026-10-10 21:15:29.122308
+Name    : Bishwajeet Kumar
+Email   : bishwajeet@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:15:32.670231
+Name    : Siddharth Kumar
+Email   : siddharth@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:15:36.045798
+Name    : Divya Gehlot
+Email   : divya.gehlot@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:15:39.445012
+Name    : Ankita Das
+Email   : ankita.das@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:15:42.891305
+Name    : Ashik Subhash
+Email   : ashik.subhash@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:15:46.294880
+Name    : Ekta Puri
+Email   : ekta@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:15:49.940117
+Name    : Rishikesh
+Email   : rishikesh@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:15:53.438930
+Name    : Suhasni Hangloo
+Email   : suhasni.hangloo@rapido.bike
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:41:00.131915
+Name    : Srinivasa
+Email   : pes2ug22cs577@pesu.pes.edu
+Status  : Sent
+
+======================================================================
+Time    : 2026-10-10 21:41:04.110714
+Name    : Srinivasa K
+Email   : shrinivasa242004@gmail.com
+Status  : Sent
+
